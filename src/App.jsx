@@ -8,6 +8,7 @@ import User from './Pages/User'
 import Profile from './Pages/Profile'
 import Jobs from './Pages/Jobs'
 import AnotherUser from './Pages/AnotherUser'
+
 import UserDetails from './Pages/UserDetails'
 
 const App = () => {
