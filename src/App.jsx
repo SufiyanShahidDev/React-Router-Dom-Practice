@@ -12,7 +12,6 @@ import AnotherUser from './Pages/AnotherUser'
 
 import UserDetails from './Pages/UserDetails'
 
-
 const App = () => {
   return (
     <BrowserRouter>
